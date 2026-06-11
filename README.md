@@ -1,7 +1,7 @@
 # 云南大学机器学习实验课程论文模板
 
 <p align="center">
-  <img src="example/0001.jpg" width="30%"/>
+  <img src="example/0001.jpg" width="100%"/>
 </p>
 
 <p align="center">
